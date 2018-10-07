@@ -16,3 +16,16 @@ I try to get the same results as the paper, but I am still far from there.
 5. I am unsure of the process of selecting the time steps when the data has to be shortened.
 
 I plan to work on functions like dropout, early stopping, and bidirectional.
+
+Update(Oct.07.2018)
+plane dropout with three variation
+  + moon : [Moon et al.2015] Taesup Moon, Heeyoul Choi, Hoshik Lee, and Inchul Song. 2015. Rn- ndrop: A novel dropout for rnns in asr. Au- tomatic Speech Recognition and Understanding (ASRU).
+  + Gal : [Gal2015] Yarin Gal. 2015. A theoretically grounded application of dropout in recurrent neural networks. arXiv:1512.05287.
+  + mloss : Semeniuta, S., Severyn, A., & Barth, E. (2016). Recurrent dropout without memory loss. arXiv preprint arXiv:1603.05118.
+  
+planning to work on implenting weighted dropout
+https://github.com/salesforce/awd-lstm-lm
+Regularizing and Optimizing LSTM Language Models https://arxiv.org/abs/1708.02182
+An Analysis of Neural Language Modeling at Multiple Scales https://arxiv.org/abs/1803.08240
+
+
