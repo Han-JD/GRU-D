@@ -1,5 +1,5 @@
 # GRU-D
-AUC score (mean ± std) for mortality prediction in the paper: 0.8424 ± 0.012; my research got: 0.8419.
+AUC score (mean ± std) for mortality prediction in the paper: 0.8424 ± 0.012; my research got: 0.8431.
 
 This research is inspired by 'Recurrent Neural Networks for Multivariate Time Series with Missing Values' pytorch version (https://arxiv.org/abs/1606.01865).
 
